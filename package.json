@@ -1,0 +1,13 @@
+{
+  "name": "cocacola-scroll-animation",
+  "version": "1.0.0",
+  "description": "Cinematic 3D scroll animation landing page for Coca-Cola Zero Sugar using HTML5 Canvas and 214 high-res frames.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["cocacola", "canvas", "scroll-animation", "web-audio"],
+  "author": "",
+  "license": "ISC"
+}
+
